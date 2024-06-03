@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">SP Explore</string>
+
+    <!-- Restaurantes -->
+    <string name="di_paolo">Di Paolo</string>
+    <string name="di_paolo_description">Experimente os sabores autênticos do sul do Brasil no Di Paolo em São Paulo. Delicie-se com o famoso Galeto Al Primo Canto e uma variedade de pratos tradicionais da Serra Gaúcha, como sopa de capeletti, polenta frita e queijo à dorê. Complemente sua refeição com uma seleção de vinhos e mergulhe na cultura gastronômica do Rio Grande do Sul. Venha para o Di Paolo e descubra uma experiência única de sabores e tradições.</string>
+    <string name="cipo_resto">CipóRestô</string>
+    <string name="cipo_resto_description">Com culinária regional, o Cipó Restô possui um cardápio com os sabores do Brasil e uma decoração moderna e aconchegante. Sua gastronomia valoriza ingredientes frescos e sabores típicos de diferentes regiões do Brasil, como queijo minas, tapioca, coco, banana da terra, pimenta biquinho e mandioca.</string>
+    <string name="mania_de_churrasco">Mania De Churrasco! Prime Steak e Burger</string>
+    <string name="mania_de_churrasco_description">A Mania de Churrasco foi criada para trazer a experiência das grandes churrascarias para os shoppings. Nosso diferencial está na qualidade dos ingredientes selecionados e dos cortes nobres, oferecendo o melhor da carne em um ambiente acessível.</string>
+    <string name="noah_gastronomia">Noah Gastronomia Paulista</string>
+    <string name="noah_gastronomia_description">Seja em um happy hour temático, um coquetel requintado, um almoço vegano empratado ou jantar em formato de buffet, qualidade, criatividade, apresentação impecável e muito sabor estão presentes nas opções do Noah Gastronomia, que assina o menu no Blue Tree Transatlântico, Villa Blue Tree e nos restaurantes Noah Faria Lima, Morumbi, Paulista, Verbo Divino e São Caetano do Sul.</string>
+
+    <!-- Lazer -->
+    <string name="parque_ibirapuera">Parque Ibirapuera</string>
+    <string name="parque_ibirapuera_description">Explore o Parque Ibirapuera em São Paulo, um marco histórico e natural. Com 158 hectares, é um dos locais mais visitados da América Latina, recebendo cerca de 14 milhões de visitantes em 2017. Um destino imperdível para quem busca lazer e contato com a natureza na cidade.</string>
+    <string name="beco_do_batman">Beco do Batman</string>
+    <string name="beco_do_batman_description">O Beco do Batman, na Vila Madalena, é uma atração turística de destaque em São Paulo, especialmente para visitantes estrangeiros. Com suas ruas estreitas repletas de grafites coloridos, o local encanta tanto os paulistanos quanto os turistas que buscam explorar a vida boêmia do bairro. O tráfego de veículos é proibido, proporcionando uma experiência exclusiva para os pedestres.</string>
+    <string name="avenida_paulista">Avenida Paulista</string>
+    <string name="avenida_paulista_description">A Avenida Paulista é um ícone de São Paulo, representando a diversidade e vitalidade da cidade. Com sua rica mistura de cultura e história, percorrê-la é uma jornada enriquecedora. Repleta de atrações culturais e arquitetônicas, ela conta a história pulsante dessa metrópole.</string>
+    <string name="theatro_municipal">Theatro Municipal</string>
+    <string name="theatro_municipal_description">O Theatro Municipal de São Paulo, projetado pelos arquitetos Ramos de Azevedo, Claudio Rossi e Domiziano Rossi, é um marco arquitetônico brasileiro localizado na cidade de São Paulo. Inaugurado em 1911, seu estilo eclético foi inspirado na Ópera de Paris, destacando-se como uma obra imponente e culturalmente significativa.</string>
+
+    <!-- Cultura -->
+    <string name="pinacoteca">Pinacoteca</string>
+    <string name="pinacoteca_description">A Pinacoteca do Estado de São Paulo é um dos principais museus de arte do Brasil. Localizada no Jardim da Luz, centro de São Paulo, ocupa um edifício construído em 1900. Este foi projetado por Ramos de Azevedo e Domiziano Rossi para abrigar o Liceu de Artes e Ofícios.</string>
+    <string name="museu_do_ipiranga">Museu do Ipiranga</string>
+    <string name="museu_do_ipiranga_description">O Museu Paulista da Universidade de São Paulo, conhecido como Museu do Ipiranga ou Museu Paulista, é o mais antigo museu público da cidade de São Paulo. Sua sede é um monumento-edifício situado no Parque da Independência, integrando o conjunto arquitetônico do local.</string>
+    <string name="masp">Museu de Artes de São Paulo</string>
+    <string name="masp_description">O Museu de Arte de São Paulo Assis Chateaubriand, conhecido como MASP, é um importante centro cultural e museu de arte brasileiro. Fundado em 1947 pelo empresário e jornalista paraibano Assis Chateaubriand, o museu teve a direção do crítico e marchand italiano Pietro Bardi de 1947 a 1990, a convite de Chateaubriand.</string>
+    <string name="museu_das_favelas">Museus das Favelas</string>
+    <string name="museu_das_favelas_description">O Museu das Favelas, localizado no antigo Palácio dos Campos Elíseos em São Paulo, busca ressignificar territórios aristocráticos ao dar voz e visibilidade às comunidades faveladas do Brasil. Com o objetivo de transformar narrativas, o museu oferece espaço para pesquisa, preservação e comunicação das memórias e criatividade das favelas, sendo uma plataforma para a história e cultura desses locais contada pelas próprias vozes de seus habitantes.</string>
+
+    <!-- Entretenimento -->
+    <string name="parque_marisa">Parque Marisa</string>
+    <string name="parque_marisa_description">O Parque de Diversões Marisa começou em 1973 com um padrão diferenciado, focado no bem-estar dos clientes. Desde 1987, está localizado em Itaquera, atraindo um público crescente e modernizando seus 20 brinquedos. As crianças adoram o Jumbinho, Mini-Autopista, Comboio de Caminhões e o carrossel, enquanto os mais aventureiros podem desfrutar da Montanha-Russa, Disko e Crazy-Dance.</string>
+    <string name="ifly_sao_paulo">iFly São Paulo</string>
+    <string name="ifly_sao_paulo_description">A iFly oferece a experiência de voar livremente, sem a necessidade de saltar de um avião ou usar paraquedas. Em um ambiente seguro e controlado, você flutua sobre o ar, sem nada te prendendo ao chão. Utilizando tecnologia avançada, o simulador possui um colchão de ar dentro da câmara de voo, proporcionando a sensação mais próxima da gravidade zero.</string>
+    <string name="roller_jam">Roller Jam</string>
+    <string name="roller_jam_description">A casa proporciona uma experiência retrô, com decoração e iluminação típicas das décadas de 70 e 80. Embalada pelos sucessos dançantes da Discomusic, a atmosfera se torna ainda mais eletrizante. DJs residentes e convidados garantem a animação, enquanto monitores e professores ensinam passos de dança sobre patins na pista. Uma lanchonete estilo Diner Americano e máquinas de Fliperama retro completam o clima divertido. Os visitantes podem trazer seus próprios patins ou alugar modelos \"Quad\" com 4 rodinhas paralelas.</string>
+    <string name="impulso_park">Impulso Park</string>
+    <string name="impulso_park_description">Cuidadosamente planejado, o Impulso tomou o conceito de um parque de trampolins voltado para inovação, design e características especiais para o que promete ser uma experiência inesquecível. Com atrações inéditas O Impulso foi projetado para que o entretenimento do cliente seja completo e a diversão garantida.</string>
+    <string name="cultura">Cultura</string>
+    <string name="restaurante">Restaurante\n</string>
+    <string name="lazer">Lazer</string>
+
+</resources>
